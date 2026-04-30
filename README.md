@@ -5,7 +5,8 @@ This template repository makes it easy for enterprise and organization S.A.O.G.o
 * An example agent profile in the `agents` directory
 
 > [!NOTE]
-> The example agent profile is commented out, so you can use this template repository without unintentionally making a custom agent available to your team.
+> este agente saog<img width="1440" height="2560" alt="IMG_20251230_232240_771" src="https://github.com/user-attachments/assets/aa9ac0fc-b02f-4fa2-921d-2d7dad9a9a9c" />
+.
 
 ## Getting started
 
